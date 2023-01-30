@@ -1,0 +1,24 @@
+.features {
+    display: flex;
+    gap: 50px;
+}
+
+.number {
+    background: var(--Bright-Red);
+    width: 65px;
+    height: 40px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    color: var(--White);
+    align-items: center;
+    margin-top: 10px;
+}
+
+.feature-title {
+    color: var(--Dark-Blue);
+}
+
+.feature-text {
+    color: var(--Dark-Grayish-Blue);
+}

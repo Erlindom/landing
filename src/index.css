@@ -8,3 +8,8 @@ html {
   --Vary-Light-Gray: hsl(0, 0%, 98%);
   --White: #fff;
 }
+
+p {
+  line-height: 1.5;
+  font-size: 1.1rem;
+}
