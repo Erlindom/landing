@@ -1,4 +1,10 @@
 .started-btn {
+    display: flex;
+    width: 90px;
+    height: 23px;
+    font-size: 0.9rem;
+    align-items: center;
+    justify-content: center;
     text-decoration: none;
     background: var(--Bright-Red);
     padding: 13px 33px;

@@ -1,0 +1,35 @@
+.home {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 85vh;
+}
+
+.information-home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+    gap: 30px;
+}
+
+.title-home {
+    font-size: 3.3rem;
+    color: var(--Dark-Blue);
+}
+
+.text-home {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    color: var(--Dark-Grayish-Blue);
+}
+
+.ilustration-img {
+    background-image: url("../../img/bg-tablet-pattern.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.ilustration {
+    width: 600px;
+}
